@@ -1,6 +1,6 @@
 # argo workflow setup
 
-export VERSION=v3.4.11
+export VERSION=v3.5.0
 
 ## install
 

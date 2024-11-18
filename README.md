@@ -1,4 +1,3 @@
-```markdown
 # argo-cd-argo-workflows-setup
 
 This repository contains the necessary files to deploy Argo CD and Argo Workflows on a Kubernetes cluster.
@@ -17,4 +16,3 @@ This repository contains the necessary files to deploy Argo CD and Argo Workflow
 # 2. Install `kubectl`, `helm`, and `kustomize` if they are not already installed.
 # 3. Clone this repository to your local machine.
 # 4. Follow the instructions provided in the repository to deploy Argo CD and Argo Workflows.
-```
